@@ -1,0 +1,10 @@
+{
+    "name": "pipelining", 
+    "license": "MPL 2.0", 
+    "author": "Arpit Kumar", 
+    "version": "0.1", 
+    "fullName": "Enable HTTP Pipelining", 
+    "homepage": "http://blog.arpitnext.com/", 
+    "id": "pipe@techraga.com", 
+    "description": "Enables HTTP Pipelining in Firefox"
+}
